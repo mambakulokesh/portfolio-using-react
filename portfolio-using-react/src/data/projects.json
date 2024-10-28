@@ -1,0 +1,19 @@
+[
+  {
+    "title": "NLP-Based News Article Classification",
+    "imageSrc": "projects/project-1.jpg",
+    "description": "Developed an NLP-based system for classifying news articles to detect in-article attribution. This project utilized text processing techniques like tokenization and lemmatization to prepare data, followed by a classification model for source identification. Built with Python and Flask, it provides a user-friendly interface for real-time results, enhancing NLP and web development skills.",
+    "skills": ["Python", "Pandas", "Flask", "HTML"],
+    "demo": "",
+    "source": "https://github.com/mambakulokesh/NLP-Based-News-Article-Classification.git"
+  },
+
+  {
+    "title": "Restaurant Clone Website",
+    "imageSrc": "projects/project-2.png",
+    "description": "Created a responsive Restaurant Website Clone for IBM SkillBuild, using HTML, CSS, JavaScript, and Bootstrap. The project features a clean, user-friendly design with smooth navigation across all devices, replicating a professional restaurant site.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://www.linkedin.com/posts/lokesh-mambaku-23640924b_webdevelopment-frontend-responsivedesign-activity-7253046657125134336-7FTr?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/mambakulokesh/Restaurant_Project.git"
+  }
+]

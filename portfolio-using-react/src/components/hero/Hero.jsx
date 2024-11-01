@@ -19,7 +19,7 @@ function Hero() {
             <h1 className="title">Lokesh</h1>
             <p className="text-p2">Senior Graduate</p>
             <div className="btn-container">
-              <a href={resume} download="">
+              <a href={resume} download="Lokesh-Mambaku-resume">
                 <button className="btn btn-color-2">See Resume</button>
               </a>
               <a href="#contact">

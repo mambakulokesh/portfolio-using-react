@@ -1,4 +1,26 @@
 [
+
+  {
+    "role": "Introduction to Programming using Python",
+    "organisation": "Microsoft",
+    "startDate": "Jun, 2022",
+    "endDate": "Jul, 2022",
+    "experiences": [
+      "I developed skills in creating responsive web interfaces and enhancing user experiences."
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+
+  {
+    "role": "Web Design and Development",
+    "organisation": "OASIS INFOBYTE",
+    "startDate": "Oct, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": [
+      "I developed skills in creating responsive web interfaces and enhancing user experiences."
+    ],
+    "imageSrc": "history/oasis.png"
+  },
   {
     "role": "FED Intern",
     "organisation": "IBM Skill Build",
@@ -7,6 +29,6 @@
     "experiences": [
       "I developed skills in creating responsive web interfaces and enhancing user experiences."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/IBM.png"
   }
 ]

@@ -4,7 +4,7 @@
     "imageSrc": "projects/project-1.jpg",
     "description": "Developed an NLP-based system for classifying news articles to detect in-article attribution. This project utilized text processing techniques like tokenization and lemmatization to prepare data, followed by a classification model for source identification. Built with Python and Flask, it provides a user-friendly interface for real-time results, enhancing NLP and web development skills.",
     "skills": ["Python", "Pandas", "Flask", "HTML"],
-    "demo": "",
+    "demo": "https://www.linkedin.com/posts/lokesh-mambaku-23640924b_machinelearning-nlp-fakenewsdetection-activity-7256182134871121920-kjoX?utm_source=share&utm_medium=member_desktop",
     "source": "https://github.com/mambakulokesh/NLP-Based-News-Article-Classification.git"
   },
 

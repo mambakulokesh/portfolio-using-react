@@ -57,11 +57,12 @@
 
 /* Button hover effect */
 
-.hover-bounce {
+#hover-bounce {
   width: 10rem;
+  border: 1px solid #4cc9fe;
 }
 
-.hover-bounce:hover {
+#hover-bounce:hover {
   transform: scale(1.1);
   transition: transform 0.3s ease;
 }

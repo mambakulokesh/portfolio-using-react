@@ -11,7 +11,6 @@ function About() {
 
         <div className="container my-5 about-container">
           <div className="row d-flex justify-content-center details-row">
-            
             <div className="col-6 p-5 text-center about-img fade-in-left">
               <img
                 className="rounded-circle"
@@ -50,7 +49,7 @@ function About() {
                 </a>
               </div>
               <Link to="/contact">
-                <button className="btn btn-outline-warning border mt-4 hover-bounce">
+                <button className="btn btn-outline-info mt-4" id="hover-bounce">
                   Contact Me
                 </button>
               </Link>

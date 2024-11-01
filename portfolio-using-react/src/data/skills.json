@@ -16,6 +16,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
     "title": "Node Js",
     "imageSrc": "skills/node.png"
   },

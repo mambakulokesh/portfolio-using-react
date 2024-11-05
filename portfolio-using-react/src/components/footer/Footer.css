@@ -1,5 +1,14 @@
 .foot-links {
-    font-size: 13px;
-    padding: 10px 12px;
-    border-radius: 100%;
+  font-size: 13px;
+  padding: 10px 12px;
+  border-radius: 100%;
+}
+.foot-desc {
+  font-size: 13px;
+}
+
+@media (max-width: 480px) {
+  .foot-desc {
+    font-size: 11px;
+  }
 }

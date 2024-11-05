@@ -49,7 +49,7 @@ function About() {
                 </a>
               </div>
               <Link to="/contact">
-                <button className="btn btn-outline-info mt-4" id="hover-bounce">
+                <button className="btn btn-outline-info mt-4 hover-bounce" id="hover-bounce">
                   Contact Me
                 </button>
               </Link>

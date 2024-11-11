@@ -3,10 +3,10 @@
   {
     "role": "Introduction to Programming using Python",
     "organisation": "Microsoft",
-    "startDate": "Jun, 2022",
-    "endDate": "Jul, 2022",
+    "startDate": "May, 2022",
+    "endDate": "Jun, 2022",
     "experiences": [
-      "I developed skills in creating responsive web interfaces and enhancing user experiences."
+      "Certified as a Microsoft Technology Associate in 'Introduction to Programming using Python' on June 23, 2022."
     ],
     "imageSrc": "history/microsoft.png"
   },
@@ -17,7 +17,7 @@
     "startDate": "Oct, 2022",
     "endDate": "Nov, 2022",
     "experiences": [
-      "I developed skills in creating responsive web interfaces and enhancing user experiences."
+      "I developed skills in creating landing Pages, responsive web interfaces and enhancing user experiences."
     ],
     "imageSrc": "history/oasis.png"
   },
@@ -27,7 +27,7 @@
     "startDate": "Jun, 2023",
     "endDate": "Jul, 2023",
     "experiences": [
-      "I developed skills in creating responsive web interfaces and enhancing user experiences."
+      "Focused on building a fully responsive design that adapts to various screen sizes, enhancing the user experience across devices."
     ],
     "imageSrc": "history/IBM.png"
   }

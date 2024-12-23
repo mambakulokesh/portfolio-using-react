@@ -3,9 +3,17 @@
     "title": "NLP-Based News Article Classification",
     "imageSrc": "projects/project-1.jpg",
     "description": "Developed an NLP-based system for classifying news articles to detect in-article attribution. This project utilized text processing techniques like tokenization and lemmatization to prepare data, followed by a classification model for source identification. Built with Python and Flask, it provides a user-friendly interface for real-time results, enhancing NLP and web development skills.",
-    "skills": ["Python", "Pandas", "Flask", "HTML"],
+    "skills": ["Python", "Pandas", "Flask", "HTML", "CSS", "Javascript"],
     "demo": "https://www.linkedin.com/posts/lokesh-mambaku-23640924b_machinelearning-nlp-fakenewsdetection-activity-7256182134871121920-kjoX?utm_source=share&utm_medium=member_desktop",
     "source": "https://github.com/mambakulokesh/NLP-Based-News-Article-Classification.git"
+  },
+  {
+    "title": "Book Store Application using MERN",
+    "imageSrc": "projects/project-2.png",
+    "description": "A full-stack Book Store Application built with the MERN stack, featuring Firebase authentication for secure user login and registration, enabling efficient book management and an intuitive user experience.",
+    "skills": ["React Js", "Redux", "MongoDB", "Node Js", "Express Js"],
+    "demo": "https://www.linkedin.com/posts/lokesh-mambaku-23640924b_webdevelopment-frontend-responsivedesign-activity-7253046657125134336-7FTr?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/mambakulokesh/Restaurant_Project.git"
   },
 
   {

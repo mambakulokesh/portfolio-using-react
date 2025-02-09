@@ -9,7 +9,7 @@
   },
   {
     "title": "Book Store Application using MERN",
-    "imageSrc": "projects/project-2.png",
+    "imageSrc": "projects/project-3.png",
     "description": "A full-stack Book Store Application built with the MERN stack, featuring Firebase authentication for secure user login and registration, enabling efficient book management and an intuitive user experience.",
     "skills": ["React Js", "Redux", "MongoDB", "Node Js", "Express Js"],
     "demo": "https://www.linkedin.com/posts/lokesh-mambaku-23640924b_webdevelopment-frontend-responsivedesign-activity-7253046657125134336-7FTr?utm_source=share&utm_medium=member_desktop",

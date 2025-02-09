@@ -1,5 +1,5 @@
 import "./Navbar.css";
-import resume from "../resume/Resume.pdf";
+import resume from "../resume/Lokesh-Mambaku-Resume.pdf";
 
 import { Link } from "react-router-dom";
 

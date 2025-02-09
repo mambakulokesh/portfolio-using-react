@@ -16,7 +16,7 @@ function Hero() {
 
           <div className="intro">
             <p className="text-p1">Hello, I'm</p>
-            <h1 className="title">Lokesh </h1>
+            <h1 className="title">Lokesh</h1>
             <p className="text-p2">Graduate</p>
             <div className="btn-container">
               <a href={resume} download="Lokesh-Mambaku-resume">
